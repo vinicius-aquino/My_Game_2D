@@ -5,4 +5,4 @@ is a simple 2d game with, jump system, vfx, Scriptable object
 gun system and more.
 
 
-TAKE A LOOK A PICK IN IMAGES
+TAKE A LOOK A PICK ON PNG IMAGES
